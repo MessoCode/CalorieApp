@@ -1,0 +1,7 @@
+bakso : Per 100gram Energy = 202kkal    
+indomie : Per 100gram Energy = 340kkal    
+martabaktelor : Per 100gram Energy = 203kkal    
+mieayam : Per 100gram Energy = 102kkal    
+pecel : Per 100gram Energy = 220kkal    
+rendang : Per 100gram Energy = 193kkal    
+sate : Per 100gram Energy = 225kkal    
